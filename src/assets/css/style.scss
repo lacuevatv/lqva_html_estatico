@@ -1,0 +1,11 @@
+@import 'reset';
+@import 'fonts';
+@import 'variables';
+
+html, body {
+    font-family: $fuente-principal;
+    font-size: 100%;
+    line-height: 110%;
+    color: $color-negro;
+    background-color: $color-blanco;
+}
