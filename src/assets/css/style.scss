@@ -9,3 +9,19 @@ html, body {
     color: $color-negro;
     background-color: $color-blanco;
 }
+
+.site-wrapper {}//.site-wrapper
+
+.inner-wrapper {}//inner-wrapper
+
+@import 'footer';
+@import 'nav';
+@import 'header';
+
+@import 'servicios';
+@import 'equipo';
+@import 'contacto';
+
+
+
+
